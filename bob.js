@@ -26,7 +26,7 @@ class Bob{
     translate(paperpos.x,paperpos.y)
     rectMode(CENTER)
     strokeWeight(3)
-    fill(45,0,54)
+    fill(0)
     
 
     circle(0,0,this.r)

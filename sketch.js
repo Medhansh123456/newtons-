@@ -43,7 +43,7 @@ rope5=new Rope(bob5.body,roof.body,100,0)
 
 function draw() {
   rectMode(CENTER);
-  background(200);
+  background(250);
 
 roof.display();
 bob1.display();
